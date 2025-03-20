@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@nrwl/cli": "14.6.3",
-    "@nrwl/eslint-plugin-nx": "14.6.3",
+    "@nrwl/eslint-plugin-nx": "14.8.9",
     "@nrwl/jest": "14.6.3",
     "@nrwl/linter": "14.6.3",
     "@nrwl/nx-cloud": "latest",
